@@ -1,0 +1,19 @@
+body{
+    background-color: darkcyan;
+}
+
+.head{
+    background-color: rgb(119, 201, 228);
+    padding: 4px 10px;
+}
+/* .cup{
+    float: right;
+    padding-top:5px ;
+} */
+.all{
+    flex: auto;
+    padding: 10px 20px;
+}
+p{
+    font-size: 20px;
+}
